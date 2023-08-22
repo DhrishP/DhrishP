@@ -27,11 +27,11 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/nextjs-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="htthttps://github.com/DhrishP/DhrishP/blob/main/images/prisma.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="hhttps://github.com/DhrishP/DhrishP/blob/main/images/stripe.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="hhttps://github.com/DhrishP/DhrishP/blob/main/images/clerk.webp" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe.svg" height="40" style="vertical-align:down;margin:4px">
+
 </p>
 
 **Learning:**
