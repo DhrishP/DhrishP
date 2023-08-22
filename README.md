@@ -3,7 +3,7 @@
 src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gif" height="32" style="" /></h1>
 <br />
 
-### Hi, I'm Dhrish Parekh, a fullstack developer trying to improve to make cool things and always on the look for opportunities!!
+**Hi, I'm Dhrish Parekh, a fullstack developer trying to improve to make cool things and always on the look for opportunities!!**
 
 <a href="#"><img  src="https://media.discordapp.net/attachments/775344092862873600/958055349133389895/SPEEN-1.gif" align="center" height="55"    /></a>
 
