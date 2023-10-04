@@ -8,13 +8,12 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 <a href="#"><img  src="https://media.discordapp.net/attachments/775344092862873600/958055349133389895/SPEEN-1.gif" align="center" height="55"    /></a>
 
 ## <img src="https://cdn.discordapp.com/emojis/828069405426319430.gif?size=4096&quality=lossless" height="30"/> Project Releases 
-
-- <a href='https://github.com/DhrishP/ecomm-dashboard-admin' target='_blank'>Ecomm-admin@v1.0.0</a> - 2023-08-18
-  <br/> Added two new buttons in products route
-- <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Ecomm-store@v1.0.0</a> - 2023-08-16
-  <br/> Finished with base version of the store
-- <a href='https://github.com/DhrishP/api-provider' target='_blank'>Api-provider@v0.1.0</a> - 2023-08-17
-<br/> learned sending emails using resend
+- <a href='https://github.com/DhrishP/SuperWOMEN' target='_blank'>SuperWOMEN@1.0.0</a> - 2023-10-1
+  <br/> Finally done with the project
+- <a href='https://github.com/DhrishP/ecomm-dashboard-admin' target='_blank'>ForgeCommerce@v1.0.0</a> - 2023-09-15
+  <br/> Update route.ts
+- <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Forge-ecomm-store@v1.0.0</a> - 2023-09-27
+  <br/> Completed chatbot integration with ai sdk
 - <a href='https://github.com/DhrishP/CryptoDetect' target='_blank'>CryptoDetector@1.0.0</a> - 2023-06-15
   <br/> Added some reponsiveness
 
@@ -24,7 +23,7 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 **Current Stack:**
 
 <p>
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/nextjs-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.svg" height="40" style="vertical-align:down;margin:4px">
@@ -38,15 +37,16 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 <p>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/graphql.svg" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/Rquery.png" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/trpc.png" height="40" style="vertical-align:down;margin-left:7px">
+
 </p>
 
 **Other known technologies:**
 <p>
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/zustand.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/python.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/trpc.png" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/Rquery.png" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
 </p>
 
 ## Some cool PR's:-
