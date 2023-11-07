@@ -36,7 +36,7 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 
 <p>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/golang-1.svg" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/golang-1.svg" height="40" style="vertical-align:down;margin-left:10px">
 
 
 </p>
