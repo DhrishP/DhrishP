@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://dhrishp-portfolio.vercel.app/" style="text-decoration:none " target="_blank">Dhrish Parekh</a> <img
-src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gif" height="32" style="" /></h1>
+src="images/codegif2U.gif" height="32" style="" /></h1>
 <br />
 
 **Hi, I'm Dhrish Parekh, a fullstack developer trying to improve to make cool things and always on the look for opportunities!!**
 
-<a href="#"><img  src="https://media.discordapp.net/attachments/775344092862873600/958055349133389895/SPEEN-1.gif" align="center" height="55"    /></a>
+<a href="#" style="postion:relative;bottom:10px;"><img  src="https://github.com/DhrishP/DhrishP/blob/main/images/boatgif.gif" align="center" height="100"     /></a>
 
 ## <img src="https://cdn.discordapp.com/emojis/828069405426319430.gif?size=4096&quality=lossless" height="30"/> Project Releases
 
@@ -17,7 +17,7 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 - <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Forge-ecomm-store@v1.0.0</a> - 2023-09-27
   <br/> Completed chatbot integration with ai sdk
 
-## <img src="https://media.tenor.com/o0Rsr-YDeFUAAAAC/flushed-emoji-sus.gif" height="26"/> Development skills breakdown
+##  Development skills breakdown
 
 **Current Stack:**
 
@@ -28,7 +28,7 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
+
 
 </p>
 
@@ -49,6 +49,7 @@ src="https://i.pinimg.com/originals/5e/d0/40/5ed0407783c8a096eb8578b611bae809.gi
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/django.png" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/Rquery.png" height="40" style="vertical-align:down;margin-left:7px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
 </p>
 
 ## Some cool PR's:-
