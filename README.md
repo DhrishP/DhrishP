@@ -22,7 +22,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 **Current Stack:**
 
 <p>
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
+<img src="https://raw.githubusercontent.com/DhrishP/DhrishP/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
