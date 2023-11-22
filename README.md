@@ -14,8 +14,8 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
   <br/> Finally done with the project
 - <a href='https://github.com/DhrishP/ecomm-dashboard-admin' target='_blank'>ForgeCommerce@v1.0.0</a> - 2023-09-15
   <br/> Update route.ts
-- <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Forge-ecomm-store@v1.0.0</a> - 2023-09-27
-  <br/> Completed chatbot integration with ai sdk
+- <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Forge-ecomm-store@v1.0.0</a> - 2023-11-20
+  <br/> Added ratelimiting using upstash
 
 ##  Development skills breakdown
 
