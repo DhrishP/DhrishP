@@ -6,7 +6,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 <a href="#" style="postion:relative;bottom:10px;"><img  src="https://github.com/DhrishP/DhrishP/blob/main/images/boatgif.gif" align="center" height="100"     /></a>
 
-## <img src="https://cdn.discordapp.com/emojis/828069405426319430.gif?size=4096&quality=lossless" height="30"/> Project Releases
+<!-- ## <img src="https://cdn.discordapp.com/emojis/828069405426319430.gif?size=4096&quality=lossless" height="30"/> Project Releases
 
 - <a href='https://github.com/DhrishP/lingo-safari' target='_blank'>LingoSafari@1.0.0</a> - 2023-10-08
   <br/> Favicon logo
@@ -15,7 +15,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 - <a href='https://github.com/DhrishP/ecomm-dashboard-admin' target='_blank'>ForgeCommerce@v1.0.0</a> - 2023-09-15
   <br/> Update route.ts
 - <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Forge-ecomm-store@v1.0.0</a> - 2023-11-20
-  <br/> Added ratelimiting using upstash
+  <br/> Added ratelimiting using upstash -->
 
 ##  Development skills breakdown
 
@@ -37,7 +37,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 **Learning:**
 
 <p > 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="50" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
 </p>
 
