@@ -25,7 +25,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 <img src="https://raw.githubusercontent.com/DhrishP/DhrishP/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/drizzle.png" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/drizzle.png"  height="40" style="vertical-align:down;margin:4px">
 
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
@@ -37,7 +37,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 **Learning:**
 
 <p > 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langchain.png" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langchain.png" height="40" style="vertical-align:down;margin:4px; filter: grayscale(100%)">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
 </p>
 
