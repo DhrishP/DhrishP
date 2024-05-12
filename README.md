@@ -2,7 +2,7 @@
 src="images/codegif2U.gif" height="32" style="" /></h1>
 <br />
 
-**Hi, I'm Dhrish Parekh, a fullstack developer trying to improve to make cool things and always on the look for opportunities!!**
+**Hi, I'm Dhrish Parekh, a fullstack developer trying to improve to **build** cool things and always on the look for opportunities!!**
 
 <a href="#" style="postion:relative;bottom:10px;"><img  src="https://github.com/DhrishP/DhrishP/blob/main/images/boatgif.gif" align="center" height="100"     /></a>
 
