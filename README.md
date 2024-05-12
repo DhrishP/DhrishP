@@ -25,9 +25,11 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 <img src="https://raw.githubusercontent.com/DhrishP/DhrishP/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/drizzle.png" height="40" style="vertical-align:down;margin:4px">
+
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" style="vertical-align:down;margin:4px">
 
 
 </p>
@@ -35,19 +37,16 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 **Learning:**
 
 <p > 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/go-8.svg" height="40" style="vertical-align:down;margin-left:15px">
-
-
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/lang.jpeg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
 </p>
 
 **Other known technologies:**
 
 <p>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/graphql.svg" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/django.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/Rquery.png" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
 </p>
@@ -56,5 +55,5 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 1. [Some cool use of url and api and implementation in a form for products in ecommerce store handling webapp](https://github.com/DhrishP/ecomm-dashboard-admin/commit/9e04213759cb70e0d84add79f3be50fd261702d3)
 1. [Implementation and usage of the API in the live ecommerce-store](https://github.com/DhrishP/ecomm-store/commit/f99242b46794677df3b894479e797d7af685db98)
-1. [Use of webhooks for payment processing in stripe]()
-1. [Some cool use of javascript array techniques]()
+<!-- 1. [Use of webhooks for payment processing in stripe]()
+1. [Some cool use of javascript array techniques]() -->
