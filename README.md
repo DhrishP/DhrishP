@@ -37,7 +37,6 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 **Learning:**
 
 <p > 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
 </p>
 
@@ -49,6 +48,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
 </p>
 
 ## Some cool PR's:-
