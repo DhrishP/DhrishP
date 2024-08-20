@@ -29,7 +29,8 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
+
 
 
 </p>
@@ -45,7 +46,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 <p>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
