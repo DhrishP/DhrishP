@@ -17,9 +17,9 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 - <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Forge-ecomm-store@v1.0.0</a> - 2023-11-20
   <br/> Added ratelimiting using upstash -->
 
-##  Development skills breakdown
+##  Tech Toolbox💼
 
-**Current Stack:**
+**Frequently used technologies:**
 
 <p>
 <img src="https://raw.githubusercontent.com/DhrishP/DhrishP/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
@@ -34,13 +34,13 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 </p>
 
-**Learning:**
+**Currently exploring:**
 
 <p > 
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
 </p>
 
-**Other known technologies:**
+**Also experienced with:**
 
 <p>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
