@@ -52,7 +52,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
 </p>
 
-## Some cool PR's:-
+## Some cool self PR's:-
 
 1. [Some cool use of url and api and implementation in a form for products in ecommerce store handling webapp](https://github.com/DhrishP/ecomm-dashboard-admin/commit/9e04213759cb70e0d84add79f3be50fd261702d3)
 1. [Implementation and usage of the API in the live ecommerce-store](https://github.com/DhrishP/ecomm-store/commit/f99242b46794677df3b894479e797d7af685db98)
