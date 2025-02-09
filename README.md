@@ -39,6 +39,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 <p > 
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" style="vertical-align:down;margin:4px">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/hono.svg" height="40" style="vertical-align:down;margin:4px">
 </p>
 
 **Also experienced with:**
