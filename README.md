@@ -53,7 +53,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" align="top">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/hono.svg" height="32" valign="top" hspace="7">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/vercel-aisdk.svg height="32" valign="top" hspace="7">
+<img src="https://github.com/DhrishP/DhrishP/blob/main/images/vercel-aisdk.png" height="32" valign="top" hspace="7">
 </p>
 
 ## Some cool self PR's:-
