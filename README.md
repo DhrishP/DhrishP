@@ -2,7 +2,7 @@
 
 **AI-powered fullstack engineer** learning and building systems.  
 
-“Ex-founding engineer who scaled to 265k+ users, building AI agents, LLM systems, backends, and frontends, and constantly refining taste.”
+**Ex-founding engineer who scaled to 265k+ users, building AI agents, LLM systems, backends, and frontends, and constantly refining taste**
 
 
 ### Skills 🛠️
