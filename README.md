@@ -37,6 +37,6 @@
 - **[Why AGI won’t be useful as you think](https://open.substack.com/pub/whycurious101/p/agi-wont-be-useful-as-you-think?r=3b560k&utm_campaign=post&utm_medium=web)** — thoughts on AGI being overhyped  
 - **[Why Simple Things Scale](https://open.substack.com/pub/whycurious101/p/why-simple-things-scale)** — why simplification beats over-optimization  
 
-\n
 
+<br/>
 **tinkering, improving my taste, and figuring things out**  
