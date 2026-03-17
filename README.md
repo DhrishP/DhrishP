@@ -20,9 +20,9 @@
 
 | Role | Company | Focus | Period |
 |------|--------|------|--------|
-| AI Full Stack Engineer | Induced | AI Voice Agents, LLM Systems | 2025 — 2026 |
-| Founding AI Fullstack Engineer | VeerOne | AI Search, LLM Infra, SEO | 2024 — 2025 |
-| Software Developer Intern | CerebralZip | Fullstack, Performance | 2024 |
+| AI Full Stack Engineer | Induced | Agents, LLM Systems, Backend | 2025 — 2026 |
+| Founding AI Fullstack Engineer | VeerOne | Tools, RSC, Fullstack  | 2024 — 2025 |
+| Software Developer Intern | CerebralZip | Frontend, Backend | 2024 |
 
 
 ### Projects 🐾  
@@ -40,6 +40,4 @@
 - **[Why Simple Things Scale](https://open.substack.com/pub/whycurious101/p/why-simple-things-scale)** — why simplification beats over-optimization  
 
 
-### Reach out  
-
-DM me → https://t.me/whycurious101  
+**tinkering, building, and figuring things out**  
