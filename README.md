@@ -2,9 +2,7 @@
 
 **AI-powered fullstack engineer** learning and building systems.  
 
-→ ex-founding engineer, scaled product to 265k+ users
-→ built AI agents, LLM systems, backends, and frontends across production systems
-→ improving taste by **building, breaking, iterating**  
+“Ex-founding engineer who scaled to 265k+ users, building AI agents, LLM systems, backends, and frontends, and constantly refining taste.”
 
 
 ### Skills 🛠️
@@ -39,5 +37,6 @@
 - **[Why AGI won’t be useful as you think](https://open.substack.com/pub/whycurious101/p/agi-wont-be-useful-as-you-think?r=3b560k&utm_campaign=post&utm_medium=web)** — thoughts on AGI being overhyped  
 - **[Why Simple Things Scale](https://open.substack.com/pub/whycurious101/p/why-simple-things-scale)** — why simplification beats over-optimization  
 
+\n
 
-**tinkering, building, and figuring things out**  
+**tinkering, improving my taste, and figuring things out**  
