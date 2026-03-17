@@ -7,13 +7,13 @@ AI-powered fullstack engineer
 - trying to improve my taste by constantly tinkering
 
 
-Skills 🛠️  
-Languages:  TypeScript/JavaScript, Python, SQL  
-AI/LLMs:     Vercel AI SDK, Langchain, Langsmith 
-Backend:     Node.js, Express , Flask , Fastapi 
-Frontend:    Next.js, React  
-Infra:       AWS, Docker, MongoDB , PostgresSQL, Redis
-Tools:       Prisma, Drizzle, Mongoose  
+### Skills 🛠️
+- **Languages**:      TypeScript/JavaScript, Python, SQL  
+- **AI/LLMs**:        Vercel AI SDK, LangChain, LangSmith  
+- **Backend**:        Node.js, Express, Flask, FastAPI  
+- **Frontend**:       Next.js, React  
+- **Infra**:          AWS, Docker, MongoDB, PostgreSQL, Redis  
+- **Tools**:          Prisma, Drizzle, Mongoose  
 
 
 Work experience 👔  
