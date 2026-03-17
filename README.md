@@ -1,65 +1,45 @@
-<h1 align="center">Hi there, I'm <a href="https://curiouslymotivated.me" style="text-decoration:none " target="_blank">Dhrish Parekh</a> <img
-src="images/codegif2U.gif" height="32" style="" /></h1>
-<br />
+Hi, my name is Dhrish 💭
 
-**Hi, I'm Dhrish Parekh, a fullstack developer trying to improve to **build** cool things and always on the look for learning opportunities!!**
+AI-powered fullstack engineer  
 
-<a href="#" style="postion:relative;bottom:10px;"><img  src="https://github.com/DhrishP/DhrishP/blob/main/images/boatgif.gif" align="center" height="100"     /></a>
-
-<!-- ## <img src="https://cdn.discordapp.com/emojis/828069405426319430.gif?size=4096&quality=lossless" height="30"/> Project Releases
-
-- <a href='https://github.com/DhrishP/lingo-safari' target='_blank'>LingoSafari@1.0.0</a> - 2023-10-08
-  <br/> Favicon logo
-- <a href='https://github.com/DhrishP/SuperWOMEN' target='_blank'>SuperWOMEN@1.0.0</a> - 2023-10-1
-  <br/> Finally done with the project
-- <a href='https://github.com/DhrishP/ecomm-dashboard-admin' target='_blank'>ForgeCommerce@v1.0.0</a> - 2023-09-15
-  <br/> Update route.ts
-- <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>Forge-ecomm-store@v1.0.0</a> - 2023-11-20
-  <br/> Added ratelimiting using upstash -->
-
-##  Tech Toolbox💼
-
-**Frequently used technologies:**
-
-<p>
-<img src="https://raw.githubusercontent.com/DhrishP/DhrishP/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/drizzle.png"  height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" align="top">
-
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
+- ex-founding engineer of a product scaled to 265k+ users
+- built AI agents, LLM systems, backends, and frontends across production systems
+- trying to improve my taste by constantly tinkering
 
 
+Skills 🛠️  
+Languages:  TypeScript/JavaScript, Python, SQL  
+AI/LLMs:     Vercel AI SDK, Langchain, Langsmith 
+Backend:     Node.js, Express , Flask , Fastapi 
+Frontend:    Next.js, React  
+Infra:       AWS, Docker, MongoDB , PostgresSQL, Redis
+Tools:       Prisma, Drizzle, Mongoose  
 
-</p>
 
-**Currently exploring:**
+Work experience 👔  
 
-<p > 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
+| Role | Company | Focus | Period |
+|------|--------|------|--------|
+| AI Full Stack Engineer | Induced | AI Voice Agents, LLM Systems | 2025 — 2026 |
+| Founding AI Fullstack Engineer | VeerOne | AI Search, LLM Infra, SEO | 2024 — 2025 |
+| Software Developer Intern | CerebralZip | Fullstack, Performance | 2024 |
 
 
-</p>
+Projects 🐾  
 
-**Also experienced with:**
+[todo-asap](https://t.me/todoAsap_bot) - telegram bot based on Andrej Karpathy’s note taking [method](https://karpathy.bearblog.dev/the-append-and-review-note/)
+[links](https://links.curiouslymotivated.com/) - A collection of links I find interesting along with all my **useful agent skills**
+[RAGVault](https://github.com/DhrishP/RAGVault) - A terminal based local RAG system. 
+[twitter-finetune-3b](https://huggingface.co/whycurious101/twitter-finetune-3b) - A finetuned 3b models for viral tweets
+[voice-agents](https://github.com/DhrishP/voice-agents) - A good code demonstration of building production grade voice agents. 
 
-<p>
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="40" valign="top" hspace="7">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/hono.svg" height="32" valign="top" hspace="7">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/vercel-aisdk.png" height="32" valign="top" hspace="7">
 
-</p>
+Blogs ✍️  
 
-<!--
-## Some cool self PR's:-
-1. [Some cool use of url and api and implementation in a form for products in ecommerce store handling webapp](https://github.com/DhrishP/ecomm-dashboard-admin/commit/9e04213759cb70e0d84add79f3be50fd261702d3)
-1. [Implementation and usage of the API in the live ecommerce-store](https://github.com/DhrishP/ecomm-store/commit/f99242b46794677df3b894479e797d7af685db98)
- 1. [Use of webhooks for payment processing in stripe]()
-1. [Some cool use of javascript array techniques]() -->
+[Why AGI wont be useful as you think](https://open.substack.com/pub/whycurious101/p/agi-wont-be-useful-as-you-think?r=3b560k&utm_campaign=post&utm_medium=web) - My views on AGI and why it is overhyped
+[Why Simple Things Scale](https://open.substack.com/pub/whycurious101/p/why-simple-things-scale) - Taking too many notes is not enough. why you need to simplify and compress to make it make sense. 
+
+Directly DM [here][https://t.me/whycurious101]
+
+
+
