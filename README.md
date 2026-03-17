@@ -2,7 +2,7 @@
 
 **AI-powered fullstack engineer** learning and building systems.  
 
-**Ex-founding engineer who scaled to 265k+ users, building AI agents, LLM systems, backends, and frontends, and constantly refining taste**
+**Ex-founding engineer who scaled to 265k+ users, building AI agents, LLM systems, backends, and frontends, and constantly refining taste **
 
 
 ### Skills 🛠️
@@ -18,9 +18,9 @@
 
 | Role | Company | Focus | Period |
 |------|--------|------|--------|
-| AI Full Stack Engineer | Induced | Agents, LLM Systems, Backend | 2025 — 2026 |
-| Founding AI Fullstack Engineer | VeerOne | Tools, RSC, Fullstack  | 2024 — 2025 |
-| Software Developer Intern | CerebralZip | Frontend, Backend | 2024 |
+| AI Full Stack Engineer | [Induced](https://induced.ai/) | Agents, LLM Systems, Backend | 2025 — 2026 |
+| Founding AI Fullstack Engineer | Veerone | Tools, RSC, Fullstack  | 2024 — 2025 |
+| Software Developer Intern | [CerebralZip](https://cerebralzip.com/) | Frontend, Backend | 2024 |
 
 
 ### Projects 🐾  
